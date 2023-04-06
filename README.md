@@ -12,5 +12,4 @@ I don't expect my code to be entirely completed, nor perfect, but I'm still conf
 ## Technology Used
 - Python is used extensively in this project, specifically for the development of the sentiment analysis model
 - The Natural Language Toolkit and other open-source libraries in Python will be used to preprocess the text data, extract relevant features, and train the machine learning model
-- Python will also be used for web development using popular frameworks such as Flask or Django
-- Additionally, Python could be used to deploy the web app on the cloud platform such as AWS or Heroku
+- For web development popular frameworks such as Flask or Django will be used
