@@ -1,7 +1,7 @@
 # SENTIMENT ANALYSIS PROGRAM
 
 ## Purpose
-To create a machine learning model that can analyze text and recognize a range of emotions _(possibly)_ beyond just positive, negative, and neutral sentiment.
+To create a machine learning model that can recognize various emotions in text (possibly) beyond positive, negative, and neutral sentiment. As well as, a user-friendly web app that runs the model and can analyze the emotional content of text input, providing a useful tool for users.
 
 ## Goal
 By the middle of June, I'd like to at least have a running program that can analyze text and _at least_ recognize the difference between positive, negative, and neutral sentiment. 
