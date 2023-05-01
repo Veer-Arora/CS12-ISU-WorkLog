@@ -2,9 +2,9 @@
 
 ## Sources
 
-Video: 
+Video: Python Website Full Tutorial - Flask, Authentication, Databases & More
 
-Source: 
+Source: https://www.youtube.com/watch?v=dam0GPOAvVI&ab_channel=TechWithTim
 
-Reason:
+Reason: Learning the Basics of Flask
 
